@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Papp Status Indicator</title>
 
-    <!-- Bootstrap -->
     <link href="css/style.css" rel="stylesheet">
+    <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
   </head>
   <body>
   <div class="flip-container">
@@ -21,13 +21,19 @@
     </div>
   </div>
 
-    <script src="/socket.io/socket.io.js"></script>
-    <script>
-      var socket = io('http://localhost:3000');
-      socket.on('news', function (data) {
-        console.log(data);
-        socket.emit('my other event', { my: 'data' });
-      });
-    </script>
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    var socket = io('http://localhost:3000');
+    socket.on('stateChange', function(state){
+      switch(state){
+        case 'open':
+            $('.flip-container').addClass('open');
+          break;
+        case 'close':
+            $('.flip-container').removeClass('open');
+          break;
+      }
+    });
+  </script>
   </body>
 </html>

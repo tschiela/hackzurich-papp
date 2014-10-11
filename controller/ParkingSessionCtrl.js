@@ -1,4 +1,5 @@
 var ParkingSession = require('../models/ParkingSession');
+var redis = require('../redis');
 
 exports.checkIn = function(req, res){
   var parkingSession = new ParkingSession({
@@ -10,6 +11,7 @@ exports.checkIn = function(req, res){
       res.status(400).send(error);
     } else {
       res.json(response);
+      redis.pub.publish('bump', 'open');
     }
   });
 }

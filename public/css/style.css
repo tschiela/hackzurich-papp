@@ -11,7 +11,7 @@ body {
   height: 100%;
   perspective: 1000;
 }
-.flip-container:hover .flipper {
+.flip-container.open .flipper {
   transform: rotateY(180deg);
 }
 .flipper {

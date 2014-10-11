@@ -7,6 +7,7 @@ var server = http.createServer(app);
 var io = require('socket.io').listen(server);
 var bodyParser = require('body-parser');
 var logger = require('morgan');
+var redis = require('./redis');
 
 
 // configure express
@@ -28,12 +29,10 @@ mongodb.init(function(error){
   }
 });
 
-// socket server
-io.on('connection', function (socket) {
-  socket.emit('news', { hello: 'world' });
-  socket.on('my other event', function (data) {
-    console.log(data);
-  });
-});
+// init redis
+redis.init();
+
+// handle websockets
+require('./controller/SocketCtrl')(io);
 
 

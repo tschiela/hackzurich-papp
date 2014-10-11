@@ -5,6 +5,8 @@ var apiPrefix = '/api/v' + config.apiVersion;
 var UserCtrl = require('../controller/UserCtrl');
 var ParkingSessionCtrl = require('../controller/ParkingSessionCtrl');
 
+var redis = require('../redis');
+
 module.exports = function(app){
   // post session (checkIn)
   app.post(apiPrefix + '/checkIn', ParkingSessionCtrl.checkIn);
@@ -28,6 +30,7 @@ module.exports = function(app){
   app.get(apiPrefix + '/user/:id/sessions', ParkingSessionCtrl.getForUser);
 
   app.get('/test', function(req, res){
+    redis.pub.publish('bump', 'open');
     res.json({ok: true});
   });
 
