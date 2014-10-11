@@ -1,27 +1,32 @@
-var ParkinCtrl = require('../controller/ParkinCtrl');
 var env = process.env.NODE_ENV || 'development';
 var config = require('./config')[env]
 var apiPrefix = '/api/v' + config.apiVersion;
 
+var UserCtrl = require('../controller/UserCtrl');
+var ParkingSessionCtrl = require('../controller/ParkingSessionCtrl');
+
 module.exports = function(app){
   // post session (checkIn)
-  app.post(apiPrefix + '/checkIn', ParkinCtrl.checkIn);
+  app.post(apiPrefix + '/checkIn', ParkingSessionCtrl.checkIn);
 
-  // pay (checkOut)
-  app.post(apiPrefix + '/checkOut', function(req, res){});
+  // checkOut
+  app.post(apiPrefix + '/checkOut', ParkingSessionCtrl.checkOut);
 
-  // google wallet pay callback
-  app.post('/paycallback', function(req, res){});
+  // pay
+  app.post(apiPrefix + '/pay', ParkingSessionCtrl.pay);
 
   // get information (time and price) about one session
-  app.get(apiPrefix + '/session/:id', function(req, res){});
+  app.get(apiPrefix + '/session/:id', ParkingSessionCtrl.get);
 
   // insert new user
-  app.post(apiPrefix + '/user', function(req, res){});
+  app.post(apiPrefix + '/user', UserCtrl.insert);
 
   // get data to a specific user
-  app.get(apiPrefix + '/user/:id', function(req, res){});
+  app.get(apiPrefix + '/user/:id', UserCtrl.get);
 
   // get parking history (all sessions)
-  app.get(apiPrefix + '/user/:id/sessions', function(req, res){});
+  app.get(apiPrefix + '/user/:id/sessions', ParkingSessionCtrl.getForUser);
+
+  // TODO: google wallet postback url
+  app.post('/postback', function(req, res){});
 }
