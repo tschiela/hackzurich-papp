@@ -4,8 +4,10 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "express": "latest",   
+    "express": "latest",
     "body-parser": "latest",
-    "mongoose": "latest"
+    "mongoose": "latest",
+    "socket.io": "latest",
+    "morgan": "~1.3.2"
   }
 }

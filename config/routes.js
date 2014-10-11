@@ -27,6 +27,10 @@ module.exports = function(app){
   // get parking history (all sessions)
   app.get(apiPrefix + '/user/:id/sessions', ParkingSessionCtrl.getForUser);
 
+  app.get('/test', function(req, res){
+    res.json({ok: true});
+  });
+
   // TODO: google wallet postback url
   app.post('/postback', function(req, res){});
 }
