@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Application/src/androidTest/assets" />
+    </dataSet>
+
+</merger>
