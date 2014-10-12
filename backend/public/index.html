@@ -28,6 +28,9 @@
       switch(state){
         case 'open':
             $('.flip-container').addClass('open');
+            setTimeout(function(){
+              $('.flip-container').removeClass('open');
+            }, 5000);
           break;
         case 'close':
             $('.flip-container').removeClass('open');
