@@ -8,10 +8,9 @@ exports.checkIn = function(req, res){
       if(error){
         res.status(400).send(error);
       } else {
-        console.log(session);
         if(session){
-          res.json(session);
           redis.pub.publish('bump', 'open');
+          res.status(200).send(session._id);
         } else {
           var parkingSession = new ParkingSession({
             user: req.body.userId
@@ -21,8 +20,8 @@ exports.checkIn = function(req, res){
             if(error){
               res.status(400).send(error);
             } else {
-              res.json(response);
               redis.pub.publish('bump', 'open');
+              res.status(200).send(response._id);
             }
           });
         }
@@ -44,6 +43,7 @@ exports.checkOut = function(req, res){
         if(error){
           res.status(400).send(error);
         } else {
+          redis.pub.publish('bump', 'open');
           res.json(response);
         }
       });
