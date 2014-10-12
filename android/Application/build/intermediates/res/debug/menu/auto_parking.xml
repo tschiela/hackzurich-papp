@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.wearable.datalayer.PappActivity" >
+    <item android:id="@+id/action_settings"
+        android:title="blabla"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
+<!-- From: file:/Applications/Android%20Studio.app/sdk/samples/android-20/wearable/DataLayer/Application/src/main/res/menu/auto_parking.xml -->
