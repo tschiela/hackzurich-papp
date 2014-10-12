@@ -23,20 +23,25 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class RestHelper {
+public class PappService {
 
 
-    private static final String API_URL = "http://192.168.1.179" // 172.27.11.95
+    private static final String API_URL = "http://192.168.1.178" // 172.27.11.95
                                              +":3000/api/v1";
     private static final String USER_ID = "5438f518411bbf4006bbb606";
 
+    public PappService(){
+        StrictMode.ThreadPolicy policy =
+                new StrictMode.ThreadPolicy.Builder().permitAll().build();
+        StrictMode.setThreadPolicy(policy);
+    }
 
-    public boolean checkIn() {
+
+    protected String fireRequest(String uri, List<NameValuePair> requestVars){
         HttpClient httpClient = new DefaultHttpClient();
-        HttpPost httpPost = new HttpPost(API_URL + "/checkIn");
+        HttpPost httpPost = new HttpPost(uri);
 
-        List<NameValuePair> requestVars = new ArrayList<NameValuePair>(1);
-        requestVars.add(new BasicNameValuePair("userId", USER_ID));
+
 
         try {
             httpPost.setEntity(new UrlEncodedFormEntity(requestVars));
@@ -46,18 +51,33 @@ public class RestHelper {
 
         // Making HTTP Request
         try {
-            StrictMode.ThreadPolicy policy =
-                    new StrictMode.ThreadPolicy.Builder().permitAll().build();
-            StrictMode.setThreadPolicy(policy);
+
             HttpResponse response = httpClient.execute(httpPost);
             String responseStr = EntityUtils.toString(response.getEntity());
-            return true;
+            return responseStr.substring(1,responseStr.length()-1);
             //Log.d("Http Response:", response.toString());
         } catch (ClientProtocolException e) {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return false;
+        return null;
+    }
+
+    public boolean checkOut(String sessionId){
+        List<NameValuePair> requestVars = new ArrayList<NameValuePair>(1);
+        requestVars.add(new BasicNameValuePair("id", sessionId));
+
+        String result = fireRequest(API_URL + "/checkOut",requestVars);
+
+        return result != null ? true:false;
+    }
+
+    public String checkIn() {
+        List<NameValuePair> requestVars = new ArrayList<NameValuePair>(1);
+        requestVars.add(new BasicNameValuePair("userId", USER_ID));
+
+        String result = fireRequest(API_URL + "/checkIn",requestVars);
+        return result;
     }
 }

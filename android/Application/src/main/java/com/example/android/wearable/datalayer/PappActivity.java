@@ -1,7 +1,6 @@
 package com.example.android.wearable.datalayer;
 
 import android.app.Activity;
-import android.app.Notification;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.os.RemoteException;
@@ -15,7 +14,7 @@ import android.widget.Toast;
 import com.estimote.sdk.Beacon;
 import com.estimote.sdk.BeaconManager;
 import com.estimote.sdk.Region;
-import com.example.android.wearable.datalayer.services.RestHelper;
+import com.example.android.wearable.datalayer.services.PappService;
 
 import java.util.List;
 
@@ -31,13 +30,14 @@ public class PappActivity extends Activity {
 
 
     BeaconManager beaconManager;
+    PappService pappService;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_auto_parking);
 
-
+        pappService = new PappService();
 
         beaconManager = new BeaconManager(this);
         beaconManager.setRangingListener(new BeaconManager.RangingListener() {
@@ -114,48 +114,97 @@ public class PappActivity extends Activity {
 
     }
 
+    long lastBeconApearanceTime = 0;
+
     public void parkingLotRecognized(Beacon beaconNextToYou){
         Log.d("PappActivity","beacon recognized");
 //
-        callBackendService();
+
+        if(System.currentTimeMillis() - lastBeconApearanceTime > 10000){
+            if(parkingStartTime > 0){
+                callCheckoutService();
+            }else{
+                callCheckInService();
+            }
+
+        }
+
     }
 
-    public void callBackendService(){
-//        RestHelper restHelper = new RestHelper();
-//        if(restHelper.checkIn()){
-//            setParkingStartTime();
-//        }
-        setParkingStartTime();
-        startIntentOnWearable();
+    protected void callCheckoutService(){
+
+        if(pappService.checkOut(sessionID)){
+            long millis = System.currentTimeMillis()-parkingStartTime;
+            int minutes = (int) (((millis / 1000) / 60) % 60);
+            int hours = (int) ((((millis / 1000) / 60) / 60) % 24);
+            String minutStr = minutes < 10 ? "0"+minutes:""+minutes;
+            setCheckOutNotification(""+hours+":"+minutStr  //Todo: use the json data sent from the backend
+            ,String.valueOf((hours+Math.min(1,minutes))*2)+"CHF");
+
+            sessionID = null;
+            lastBeconApearanceTime = System.currentTimeMillis();
+            parkingStartTime = 0;
+
+        }
+    }
+    private String sessionID;
+    public void callCheckInService(){
+        String result = pappService.checkIn();
+
+        if(result != null) {
+            sessionID = result;
+            setParkingStartTime();
+
+            lastBeconApearanceTime = System.currentTimeMillis();
+            setParkingStartTime();
+            setParkingStartTime(); //Todo:get the time from BE
+            setCheckInNotification();
+        }
     }
     long parkingStartTime;
 
     public void setParkingStartTime(){
+        parkingStartTime = System.currentTimeMillis();
 
     }
     int notificationId = 001;
-    public void startIntentOnWearable(){
+
+    public void pushNotification(String bigText,String title, String text){
         NotificationCompat.BigTextStyle bigStyle = new NotificationCompat.BigTextStyle();
-        bigStyle.bigText("checked in Parking Lot of Uber Store");
+        bigStyle.bigText(bigText);
 
         NotificationCompat.Builder notificationBuilder =
                 new NotificationCompat.Builder(this)
                         .setSmallIcon(R.drawable.ic_launcher)
                         .setLargeIcon(BitmapFactory.decodeResource(
                                 getResources(), R.drawable.ic_launcher))
-                        .setContentTitle("Papp check in")
-                        .setContentText("Uber Store")
+                        .setContentTitle(title)
+                        .setContentText(text)
 //                        .setContentIntent(viewPendingIntent)
 //                        .addAction(R.drawable.ic_map,
 //                                getString(R.string.map), mapPendingIntent)
                         .setStyle(bigStyle)
-                        ;
+                ;
 
         NotificationManagerCompat notificationManager =
                 NotificationManagerCompat.from(this);
 
 // Build the notification and issues it with notification manager.
         notificationManager.notify(notificationId, notificationBuilder.build());
+    }
+
+    public void setCheckOutNotification(String parkingTime,String cost){
+        pushNotification(
+                "you where checked in for "+parkingTime+" at Uber Store The Fee is about: "+cost
+                ,"Papp check in"
+                ,"Uber Store");
+    }
+
+    public void setCheckInNotification(){
+       pushNotification(
+               "checked in Parking Lot of Uber Store"
+                ,"Papp check in"
+                ,"Uber Store");
     }
 
     public void sendUpdateDataToWear(){
