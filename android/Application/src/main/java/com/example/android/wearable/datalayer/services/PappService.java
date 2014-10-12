@@ -6,6 +6,7 @@ package com.example.android.wearable.datalayer.services;
 
 
 import android.os.StrictMode;
+import android.util.Log;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
@@ -13,6 +14,7 @@ import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpPost;
+import org.apache.http.conn.HttpHostConnectException;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
@@ -30,7 +32,10 @@ public class PappService {
                                              +":3000/api/v1";
     private static final String USER_ID = "5438f518411bbf4006bbb606";
 
+    Log log;
+
     public PappService(){
+
         StrictMode.ThreadPolicy policy =
                 new StrictMode.ThreadPolicy.Builder().permitAll().build();
         StrictMode.setThreadPolicy(policy);
@@ -54,8 +59,10 @@ public class PappService {
 
             HttpResponse response = httpClient.execute(httpPost);
             String responseStr = EntityUtils.toString(response.getEntity());
-            return responseStr.substring(1,responseStr.length()-1);
+            return responseStr.substring(1, responseStr.length() - 1);
             //Log.d("Http Response:", response.toString());
+        }catch (HttpHostConnectException hhce){
+            Log.e("PappService","Server is not available");//hhce.printStackTrace();
         } catch (ClientProtocolException e) {
             e.printStackTrace();
         } catch (IOException e) {

@@ -7,4 +7,4 @@
                android:layout_height="32dp"
                android:layout_gravity="center"/>
 </FrameLayout>
-<!-- From: file:/Applications/Android%20Studio.app/sdk/samples/android-20/wearable/DataLayer/Application/src/main/res/layout/actionbar_indeterminate_progress.xml -->
+<!-- From: file:/Users/faky/develop/hackzurich-papp/android/Application/src/main/res/layout/actionbar_indeterminate_progress.xml -->

@@ -18,4 +18,4 @@
       android:visibility="gone"
       android:src="@drawable/dot"/>
 
-</FrameLayout><!-- From: file:/Applications/Android%20Studio.app/sdk/samples/android-20/wearable/DataLayer/Application/src/main/res/layout/distance_view.xml -->
+</FrameLayout><!-- From: file:/Users/faky/develop/hackzurich-papp/android/Application/src/main/res/layout/distance_view.xml -->

@@ -4,592 +4,592 @@
     xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" >
 
     <dataSet config="20.0.0" >
-        <source path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/res" />
+        <source path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/res" />
     </dataSet>
     <dataSet config="6.1.11" >
-        <source path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res" >
+        <source path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res" >
             <file
                 name="common_signin_btn_text_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/color/common_signin_btn_text_dark.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/color/common_signin_btn_text_dark.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="common_signin_btn_text_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/color/common_signin_btn_text_light.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/color/common_signin_btn_text_light.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="common_signin_btn_icon_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable/common_signin_btn_icon_dark.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable/common_signin_btn_icon_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable/common_signin_btn_icon_light.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable/common_signin_btn_icon_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_text_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable/common_signin_btn_text_dark.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable/common_signin_btn_text_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_text_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable/common_signin_btn_text_light.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable/common_signin_btn_text_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_full_open_on_phone"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_full_open_on_phone.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_full_open_on_phone.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_ic_googleplayservices"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_ic_googleplayservices.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_ic_googleplayservices.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/ic_plusone_medium_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/ic_plusone_medium_off_client.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/ic_plusone_small_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/ic_plusone_small_off_client.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/ic_plusone_standard_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/ic_plusone_standard_off_client.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/ic_plusone_tall_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/ic_plusone_tall_off_client.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/powered_by_google_dark.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/powered_by_google_dark.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/powered_by_google_light.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-hdpi/powered_by_google_light.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/ic_plusone_medium_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/ic_plusone_medium_off_client.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/ic_plusone_small_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/ic_plusone_small_off_client.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/ic_plusone_standard_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/ic_plusone_standard_off_client.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/ic_plusone_tall_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/ic_plusone_tall_off_client.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/powered_by_google_dark.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/powered_by_google_dark.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/powered_by_google_light.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-mdpi/powered_by_google_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
                 qualifiers="tvdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-tvdpi/ic_plusone_small_off_client.png"
                 qualifiers="tvdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
                 qualifiers="tvdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
                 qualifiers="tvdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/ic_plusone_medium_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/ic_plusone_medium_off_client.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/ic_plusone_small_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/ic_plusone_small_off_client.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/ic_plusone_tall_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/ic_plusone_tall_off_client.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/powered_by_google_dark.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/powered_by_google_dark.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/powered_by_google_light.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xhdpi/powered_by_google_light.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_dark"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/powered_by_google_dark.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/powered_by_google_dark.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_light"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/powered_by_google_light.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable-xxhdpi/powered_by_google_light.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values/common_colors.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values/common_colors.xml"
                 qualifiers="" >
                 <color name="common_signin_btn_light_text_pressed" >@android:color/white
                 </color>
@@ -613,7 +613,7 @@
                 </color>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values/common_strings.xml"
                 qualifiers="" >
                 <string name="common_google_play_services_notification_needs_installation_title" >An application requires installation of Google Play services.
                 </string>
@@ -697,7 +697,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values/maps_attrs.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values/maps_attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="MapAttrs" >
                     <attr
@@ -761,14 +761,14 @@
                 </declare-styleable>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values/version.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values/version.xml"
                 qualifiers="" >
                 <integer name="google_play_services_version" >
 6111500
                 </integer>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-af/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-af/common_strings.xml"
                 qualifiers="af" >
                 <string
                     name="common_google_play_services_network_error_title"
@@ -887,7 +887,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-am/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-am/common_strings.xml"
                 qualifiers="am" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -1006,7 +1006,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ar/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ar/common_strings.xml"
                 qualifiers="ar" >
                 <string
                     name="common_android_wear_notification_needs_update_text"
@@ -1125,7 +1125,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-be/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-be/common_strings.xml"
                 qualifiers="be" >
                 <string
                     name="common_google_play_services_update_title"
@@ -1189,7 +1189,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-bg/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-bg/common_strings.xml"
                 qualifiers="bg" >
                 <string
                     name="common_google_play_services_enable_title"
@@ -1308,7 +1308,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-bn-rBD/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-bn-rBD/common_strings.xml"
                 qualifiers="bn-rBD" >
                 <string
                     name="common_google_play_services_network_error_title"
@@ -1427,7 +1427,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ca/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ca/common_strings.xml"
                 qualifiers="ca" >
                 <string
                     name="common_google_play_services_update_title"
@@ -1546,7 +1546,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-cs/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-cs/common_strings.xml"
                 qualifiers="cs" >
                 <string
                     name="common_open_on_phone"
@@ -1665,7 +1665,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-da/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-da/common_strings.xml"
                 qualifiers="da" >
                 <string
                     name="common_google_play_services_update_text"
@@ -1784,7 +1784,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-de/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-de/common_strings.xml"
                 qualifiers="de" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -1903,7 +1903,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-el/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-el/common_strings.xml"
                 qualifiers="el" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -2022,7 +2022,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-en-rGB/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-en-rGB/common_strings.xml"
                 qualifiers="en-rGB" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -2141,7 +2141,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-en-rIN/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-en-rIN/common_strings.xml"
                 qualifiers="en-rIN" >
                 <string
                     name="common_google_play_services_install_button"
@@ -2260,7 +2260,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-es/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-es/common_strings.xml"
                 qualifiers="es" >
                 <string
                     name="common_signin_button_text"
@@ -2379,7 +2379,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-es-rUS/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-es-rUS/common_strings.xml"
                 qualifiers="es-rUS" >
                 <string
                     name="common_android_wear_update_title"
@@ -2498,7 +2498,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-et-rEE/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-et-rEE/common_strings.xml"
                 qualifiers="et-rEE" >
                 <string
                     name="common_android_wear_notification_needs_update_text"
@@ -2617,7 +2617,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-eu-rES/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-eu-rES/common_strings.xml"
                 qualifiers="eu-rES" >
                 <string
                     name="common_android_wear_notification_needs_update_text"
@@ -2736,7 +2736,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-fa/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-fa/common_strings.xml"
                 qualifiers="fa" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -2855,7 +2855,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-fi/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-fi/common_strings.xml"
                 qualifiers="fi" >
                 <string
                     name="common_signin_button_text_long"
@@ -2974,7 +2974,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-fr/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-fr/common_strings.xml"
                 qualifiers="fr" >
                 <string
                     name="common_google_play_services_network_error_text"
@@ -3093,7 +3093,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-fr-rCA/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-fr-rCA/common_strings.xml"
                 qualifiers="fr-rCA" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -3212,7 +3212,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-gl-rES/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-gl-rES/common_strings.xml"
                 qualifiers="gl-rES" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -3331,7 +3331,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-hi/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-hi/common_strings.xml"
                 qualifiers="hi" >
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -3450,7 +3450,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-hr/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-hr/common_strings.xml"
                 qualifiers="hr" >
                 <string
                     name="common_google_play_services_update_button"
@@ -3569,7 +3569,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-hu/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-hu/common_strings.xml"
                 qualifiers="hu" >
                 <string
                     name="common_signin_button_text"
@@ -3688,7 +3688,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-hy-rAM/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-hy-rAM/common_strings.xml"
                 qualifiers="hy-rAM" >
                 <string
                     name="common_google_play_services_notification_needs_installation_title"
@@ -3807,7 +3807,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-in/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-in/common_strings.xml"
                 qualifiers="in" >
                 <string
                     name="common_google_play_services_unsupported_title"
@@ -3926,7 +3926,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-is-rIS/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-is-rIS/common_strings.xml"
                 qualifiers="is-rIS" >
                 <string
                     name="common_google_play_services_enable_title"
@@ -4045,7 +4045,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-it/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-it/common_strings.xml"
                 qualifiers="it" >
                 <string
                     name="common_google_play_services_install_title"
@@ -4164,7 +4164,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-iw/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-iw/common_strings.xml"
                 qualifiers="iw" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -4283,7 +4283,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ja/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ja/common_strings.xml"
                 qualifiers="ja" >
                 <string
                     name="common_google_play_services_error_notification_requested_by_msg"
@@ -4402,7 +4402,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ka-rGE/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ka-rGE/common_strings.xml"
                 qualifiers="ka-rGE" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -4521,7 +4521,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-kk-rKZ/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-kk-rKZ/common_strings.xml"
                 qualifiers="kk-rKZ" >
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -4640,7 +4640,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-km-rKH/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-km-rKH/common_strings.xml"
                 qualifiers="km-rKH" >
                 <string
                     name="common_android_wear_update_text"
@@ -4759,7 +4759,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-kn-rIN/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-kn-rIN/common_strings.xml"
                 qualifiers="kn-rIN" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -4878,7 +4878,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ko/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ko/common_strings.xml"
                 qualifiers="ko" >
                 <string
                     name="common_open_on_phone"
@@ -4997,7 +4997,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ky-rKG/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ky-rKG/common_strings.xml"
                 qualifiers="ky-rKG" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -5116,7 +5116,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-lo-rLA/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-lo-rLA/common_strings.xml"
                 qualifiers="lo-rLA" >
                 <string
                     name="common_google_play_services_unsupported_title"
@@ -5235,7 +5235,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-lt/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-lt/common_strings.xml"
                 qualifiers="lt" >
                 <string
                     name="common_google_play_services_needs_enabling_title"
@@ -5354,7 +5354,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-lv/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-lv/common_strings.xml"
                 qualifiers="lv" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -5473,7 +5473,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-mk-rMK/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-mk-rMK/common_strings.xml"
                 qualifiers="mk-rMK" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -5592,7 +5592,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ml-rIN/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ml-rIN/common_strings.xml"
                 qualifiers="ml-rIN" >
                 <string
                     name="common_signin_button_text"
@@ -5711,7 +5711,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-mn-rMN/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-mn-rMN/common_strings.xml"
                 qualifiers="mn-rMN" >
                 <string
                     name="common_signin_button_text"
@@ -5830,7 +5830,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-mr-rIN/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-mr-rIN/common_strings.xml"
                 qualifiers="mr-rIN" >
                 <string
                     name="common_open_on_phone"
@@ -5949,7 +5949,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ms-rMY/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ms-rMY/common_strings.xml"
                 qualifiers="ms-rMY" >
                 <string
                     name="common_signin_button_text_long"
@@ -6068,7 +6068,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-my-rMM/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-my-rMM/common_strings.xml"
                 qualifiers="my-rMM" >
                 <string
                     name="common_google_play_services_install_button"
@@ -6187,7 +6187,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-nb/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-nb/common_strings.xml"
                 qualifiers="nb" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -6306,7 +6306,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ne-rNP/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ne-rNP/common_strings.xml"
                 qualifiers="ne-rNP" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -6425,7 +6425,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-nl/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-nl/common_strings.xml"
                 qualifiers="nl" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -6544,7 +6544,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-pl/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-pl/common_strings.xml"
                 qualifiers="pl" >
                 <string
                     name="common_google_play_services_error_notification_requested_by_msg"
@@ -6663,7 +6663,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-pt/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-pt/common_strings.xml"
                 qualifiers="pt" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -6782,7 +6782,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-pt-rBR/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-pt-rBR/common_strings.xml"
                 qualifiers="pt-rBR" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -6901,7 +6901,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-pt-rPT/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-pt-rPT/common_strings.xml"
                 qualifiers="pt-rPT" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -7020,7 +7020,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ro/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ro/common_strings.xml"
                 qualifiers="ro" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -7139,7 +7139,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ru/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ru/common_strings.xml"
                 qualifiers="ru" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -7258,7 +7258,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-si-rLK/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-si-rLK/common_strings.xml"
                 qualifiers="si-rLK" >
                 <string
                     name="common_google_play_services_unsupported_title"
@@ -7377,7 +7377,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-sk/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-sk/common_strings.xml"
                 qualifiers="sk" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -7496,7 +7496,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-sl/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-sl/common_strings.xml"
                 qualifiers="sl" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -7615,7 +7615,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-sr/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-sr/common_strings.xml"
                 qualifiers="sr" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -7734,7 +7734,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-sv/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-sv/common_strings.xml"
                 qualifiers="sv" >
                 <string
                     name="common_android_wear_notification_needs_update_text"
@@ -7853,7 +7853,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-sw/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-sw/common_strings.xml"
                 qualifiers="sw" >
                 <string
                     name="common_google_play_services_error_notification_requested_by_msg"
@@ -7972,7 +7972,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ta-rIN/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ta-rIN/common_strings.xml"
                 qualifiers="ta-rIN" >
                 <string
                     name="common_google_play_services_install_title"
@@ -8091,7 +8091,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-te-rIN/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-te-rIN/common_strings.xml"
                 qualifiers="te-rIN" >
                 <string
                     name="common_google_play_services_notification_needs_installation_title"
@@ -8210,7 +8210,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-th/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-th/common_strings.xml"
                 qualifiers="th" >
                 <string
                     name="common_open_on_phone"
@@ -8329,7 +8329,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-tl/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-tl/common_strings.xml"
                 qualifiers="tl" >
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -8448,7 +8448,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-tr/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-tr/common_strings.xml"
                 qualifiers="tr" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -8567,7 +8567,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-uk/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-uk/common_strings.xml"
                 qualifiers="uk" >
                 <string
                     name="common_google_play_services_notification_needs_update_title"
@@ -8686,7 +8686,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ur-rPK/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-ur-rPK/common_strings.xml"
                 qualifiers="ur-rPK" >
                 <string
                     name="common_google_play_services_notification_needs_update_title"
@@ -8805,7 +8805,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-uz-rUZ/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-uz-rUZ/common_strings.xml"
                 qualifiers="uz-rUZ" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -8924,7 +8924,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-vi/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-vi/common_strings.xml"
                 qualifiers="vi" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -9043,7 +9043,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-zh-rCN/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-zh-rCN/common_strings.xml"
                 qualifiers="zh-rCN" >
                 <string
                     name="common_android_wear_update_text"
@@ -9162,7 +9162,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-zh-rHK/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-zh-rHK/common_strings.xml"
                 qualifiers="zh-rHK" >
                 <string
                     name="common_google_play_services_update_button"
@@ -9281,7 +9281,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-zh-rTW/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-zh-rTW/common_strings.xml"
                 qualifiers="zh-rTW" >
                 <string
                     name="common_open_on_phone"
@@ -9400,7 +9400,7 @@
                 </string>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-zu/common_strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/values-zu/common_strings.xml"
                 qualifiers="zu" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -9521,64 +9521,64 @@
         </source>
     </dataSet>
     <dataSet config="main" >
-        <source path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res" >
+        <source path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res" >
             <file
                 name="alternativedesign"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/drawable-mdpi/alternativedesign.jpg"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/drawable-mdpi/alternativedesign.jpg"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="counter"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/drawable-mdpi/counter.jpg"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/drawable-mdpi/counter.jpg"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="icon_blood_pressure"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/drawable-mdpi/icon_blood_pressure.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/drawable-mdpi/icon_blood_pressure.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="icon_central"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/drawable-mdpi/icon_central.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/drawable-mdpi/icon_central.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="icon_history"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/drawable-mdpi/icon_history.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/drawable-mdpi/icon_history.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="icon_info"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/drawable-mdpi/icon_info.png"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/drawable-mdpi/icon_info.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="notification"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/drawable-mdpi/notification.jpg"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/drawable-mdpi/notification.jpg"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="success"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/drawable-mdpi/success.jpg"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/drawable-mdpi/success.jpg"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="main_activity"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/layout/main_activity.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/layout/main_activity.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="text_in_circle"
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/layout/text_in_circle.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/layout/text_in_circle.xml"
                 qualifiers=""
                 type="layout" />
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/values/colors.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/values/colors.xml"
                 qualifiers="" >
                 <color name="bg_light" >#24507A
                 </color>
@@ -9592,7 +9592,7 @@
                 </color>
             </file>
             <file
-                path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/main/res/values/strings.xml"
+                path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="app_name" >PAPP
                 </string>
@@ -9600,11 +9600,11 @@
                 </string>
             </file>
         </source>
-        <source path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/generated/res/rs/debug" />
-        <source path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/generated/res/generated/debug" />
+        <source path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/generated/res/rs/debug" />
+        <source path="/Users/faky/develop/hackzurich-papp/android/Wearable/build/generated/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/src/debug/res" />
+        <source path="/Users/faky/develop/hackzurich-papp/android/Wearable/src/debug/res" />
     </dataSet>
 
 </merger>

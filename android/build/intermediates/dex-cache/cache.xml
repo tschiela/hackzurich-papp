@@ -8,12 +8,6 @@
         revision="20.0.0"
         sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
     <item
-        dex="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
-        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
-    <item
         dex="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-d82be64f10432fa6f5f09f82ababdc54d202f47e.jar"
         jar="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
         jumboMode="false"
@@ -25,6 +19,36 @@
         jumboMode="false"
         revision="20.0.0"
         sha1="d01370ba0c87b94c1da3d909048cd9b69e762eb8"/>
+    <item
+        dex="/Users/faky/develop/hackzurich-papp/android/Application/build/intermediates/pre-dexed/debug/classes-3d12f966229694fe2ef5e9c7f255b4874214e99b.jar"
+        jar="/Users/faky/develop/hackzurich-papp/android/Application/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Application/build/intermediates/pre-dexed/debug/classes-8a5cdfc85b4fe60c821322b6a81e4664f2fa58a3.jar"
+        jar="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa"/>
+    <item
+        dex="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/faky/develop/hackzurich-papp/android/Application/build/intermediates/pre-dexed/debug/estimote-sdk-preview-a76624381de035c1317da628d586141da5fb6635.jar"
+        jar="/Users/faky/develop/hackzurich-papp/android/Application/libs/estimote-sdk-preview.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d01370ba0c87b94c1da3d909048cd9b69e762eb8"/>
+    <item
+        dex="/Users/faky/develop/hackzurich-papp/android/Application/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-4e9d78c3fe7110a1a053ef419ac03691f44e2eab.jar"
+        jar="/Users/faky/develop/hackzurich-papp/android/Application/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
     <item
         dex="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/pre-dexed/debug/classes-c71da6ce2f7ab8b188a20ae7df747c0246e67432.jar"
         jar="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/classes.jar"
@@ -44,8 +68,8 @@
         revision="20.0.0"
         sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
     <item
-        dex="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Application/build/intermediates/pre-dexed/debug/classes-8a5cdfc85b4fe60c821322b6a81e4664f2fa58a3.jar"
-        jar="/Applications/Android Studio.app/sdk/samples/android-20/wearable/DataLayer/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/classes.jar"
+        dex="/Users/faky/develop/hackzurich-papp/android/Application/build/intermediates/pre-dexed/debug/classes-193457902933e93ae38d21832805154188338b51.jar"
+        jar="/Users/faky/develop/hackzurich-papp/android/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/classes.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa"/>

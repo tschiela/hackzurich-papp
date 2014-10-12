@@ -16,4 +16,4 @@
     <item
         android:drawable="@drawable/common_signin_btn_icon_normal_dark" />
 </selector>
-<!-- From: file:/Applications/Android%20Studio.app/sdk/samples/android-20/wearable/DataLayer/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable/common_signin_btn_icon_dark.xml -->
+<!-- From: file:/Users/faky/develop/hackzurich-papp/android/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.1.11/res/drawable/common_signin_btn_icon_dark.xml -->

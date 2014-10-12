@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- From: file:/Applications/Android%20Studio.app/sdk/samples/android-20/wearable/DataLayer/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values-es/common_strings.xml -->
+    <!-- From: file:/Users/faky/develop/hackzurich-papp/android/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values-es/common_strings.xml -->
     <eat-comment />
 
     <string name="common_google_play_services_enable_button" msgid="4181637455539816337">"Habilitar servicios de Google Play"</string>
@@ -29,7 +29,7 @@
     <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Actualizar servicios de Google Play"</string>
     <string name="common_signin_button_text" msgid="9071884888741449141">"Iniciar sesión"</string>
     <string name="common_signin_button_text_long" msgid="2429381841831957106">"Iniciar sesión con Google"</string>
-    <!-- From: file:/Applications/Android%20Studio.app/sdk/samples/android-20/wearable/DataLayer/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values-es/wallet_strings.xml -->
+    <!-- From: file:/Users/faky/develop/hackzurich-papp/android/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values-es/wallet_strings.xml -->
     <eat-comment />
 
     <string name="wallet_buy_button_place_holder">Comprar con Google</string>

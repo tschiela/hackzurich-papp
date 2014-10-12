@@ -84,4 +84,4 @@
         android:layout_below="@+id/start_wearable_activity"
         android:transcriptMode="alwaysScroll" />
 </RelativeLayout>
-<!-- From: file:/Applications/Android%20Studio.app/sdk/samples/android-20/wearable/DataLayer/Application/src/main/res/layout/main_activity.xml -->
+<!-- From: file:/Users/faky/develop/hackzurich-papp/android/Application/src/main/res/layout/main_activity.xml -->
