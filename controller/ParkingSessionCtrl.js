@@ -2,28 +2,43 @@ var ParkingSession = require('../models/ParkingSession');
 var redis = require('../redis');
 
 exports.checkIn = function(req, res){
-  var parkingSession = new ParkingSession({
-    user: req.body.userId
-  });
+  // check if parkingSession is already open
+  ParkingSession
+    .findOne({user: req.body.userId, payed: false}, function(error, session){
+      if(error){
+        res.status(400).send(error);
+      } else {
+        console.log(session);
+        if(session){
+          res.json(session);
+          redis.pub.publish('bump', 'open');
+        } else {
+          var parkingSession = new ParkingSession({
+            user: req.body.userId
+          });
 
-  parkingSession.save(function(error, response){
-    if(error){
-      res.status(400).send(error);
-    } else {
-      res.json(response);
-      redis.pub.publish('bump', 'open');
-    }
-  });
+          parkingSession.save(function(error, response){
+            if(error){
+              res.status(400).send(error);
+            } else {
+              res.json(response);
+              redis.pub.publish('bump', 'open');
+            }
+          });
+        }
+      }
+    });
 }
 
 exports.checkOut = function(req, res){
-  ParkingSession.findById(req.body._id, function(error, parkingSession){
+  ParkingSession.findById(req.body.id, function(error, parkingSession){
     if(error){
       res.status(400).send(error);
     } else {
       parkingSession.time = roundTwoDigits(calcTime(parkingSession.start));
       parkingSession.price = roundTwoDigits(calcPrice(parkingSession.time));
       parkingSession.end = new Date();
+      parkingSession.payed = true;
 
       parkingSession.save(function(error, response){
         if(error){
